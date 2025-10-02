@@ -80,7 +80,7 @@ export default function Home() {
               <div className="absolute -right-8 bottom-8 hidden h-16 w-16 rounded-full bg-orange-100 lg:block" aria-hidden />
               <div className="relative flex flex-col items-center gap-6">
                 <Image
-                  src="/IMG_6209.svg"
+                  src="/IMG_6209.png"
                   alt="Ícone do LudiAr"
                   width={160}
                   height={160}
@@ -241,7 +241,7 @@ export default function Home() {
       <footer className="border-t border-blue-100 bg-white/70 py-10 text-sm text-slate-500">
         <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-between gap-6 px-6 text-center sm:flex-row sm:px-10 sm:text-left">
           <div className="flex items-center gap-3 text-slate-600">
-            <Image src="/IMG_6209.svg" alt="LudiAr" width={48} height={48} />
+            <Image src="/IMG_6209.png" alt="LudiAr" width={48} height={48} />
             <div>
               <p className="font-semibold text-slate-700">LudiAr</p>
               <p>Aprendizagem com realidade aumentada para leitores do ensino fundamental.</p>

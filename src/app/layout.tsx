@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: "LudiAr",
     images: [
       {
-        url: "/IMG_6209.svg",
+        url: "/IMG_6209.png",
         width: 1200,
         height: 630,
         alt: "LudiAr - Criança lendo livro com realidade aumentada",
