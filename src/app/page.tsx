@@ -72,14 +72,6 @@ export default function Home() {
               </a>
             </div>
             <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-slate-500 lg:justify-start">
-              <div className="flex items-center gap-2">
-                <span className="inline-block h-2 w-2 rounded-full bg-emerald-400" />
-                Escolas parceiras piloto 2025
-              </div>
-              <div className="flex items-center gap-2">
-                <span className="inline-block h-2 w-2 rounded-full bg-blue-400" />
-                Conteúdo alinhado à BNCC
-              </div>
             </div>
           </div>
           <div className="flex flex-1 justify-center">
